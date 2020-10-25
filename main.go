@@ -94,7 +94,7 @@ func main() {
 		&cli.IntFlag{
 			Name:  "conn",
 			Usage: "Number of Concurrent File Downloads.",
-			Value: 2,
+			Value: 1,
 		},
 	}
 	app := cli.NewApp()
