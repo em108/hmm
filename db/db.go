@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"log"
 	"path"
-	"github.com/prologic/bitcask"
+	"git.mills.io/prologic/bitcask"
 )
 
 const (
